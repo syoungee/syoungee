@@ -1,8 +1,7 @@
   <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=SunYoung%20Hwang&fontSize=60" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=SunYoung%20Hwang&fontSize=50" />
   <p align="center">
-    🇰🇷<br>
+    <br>
     🛠 Tech Spec 🛠<br>
     Techs that I've used at least once</p>
     <p align="center">
