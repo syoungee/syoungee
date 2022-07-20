@@ -18,6 +18,16 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syoungee)](https://solved.ac/syoungee/)
 
-🧸 about me 🧸
+<b>🧸 about me 🧸</b>
+
+ESFJ-A
+사교적인 외교관 & 친선도모형
+
+
+타고난 협력자로서 동료애가 많고 친절하며 능동적인 구성원
+이야기 하기를 즐기며 정리정돈을 잘하고, 참을성이 많고 다른 사람들을 잘 도와줌
+개발자 mbti유형 하위 2등에 속하기 때문에 더 유니크하죠😎
+
+
 
 </div>
