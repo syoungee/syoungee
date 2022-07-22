@@ -1,8 +1,8 @@
   <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=SunYoung%20Hwang&fontSize=50" />
+  </br>
   <p align="center">
-    ✏️ Tech Spec ✏️<br>
-    Techs that I've used at least once</p>
+    ✏️ Tech Spec ✏️<br/>
     <p align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -28,7 +28,7 @@ ESFJ-A
 사교적인 외교관 & 친선도모형</br>
 
 타고난 협력자로서 동료애가 많고 친절하며 능동적인 구성원 </br>
-이야기 하기를 즐기며 정리정돈을 잘하고, 참을성이 많고 다른 사람들을 잘 도와줌 </br>
+이야기 하기를 즐기며 정리정돈을 잘하고, 참을성이 많고 도움을 주는 것을 좋아합니다🤍</br>
 개발자 mbti유형 하위 2등에 속하기 때문에 더 유니크하죠😎
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
