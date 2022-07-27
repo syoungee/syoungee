@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=Sun young,%20Hwang&fontSize=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=Sun young,%20Hwang&fontSize=30&animation=twinkling" />
   </br>
   <p align="center">
     ✏️ Tech Spec ✏️<br/>
@@ -16,13 +16,14 @@
 
 ![syoungee's GitHub stats](https://github-readme-stats.vercel.app/api?username=syoungee&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoungee&layout=Demo&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoungee&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syoungee)](https://solved.ac/syoungee/)
 
 <b>🧸 about me 🧸</b>
 
 <a href="https://velog.io/@syoungee"> <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a> <a href="https://www.notion.so/Resume-2022-ver-0ad4bd9f521b48bf94c4aa76e4abfaec"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a> <a href= "mailto:sunyoungah69@gmail.com" ><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+
 
 ESFJ-A
 사교적인 외교관 & 친선도모형</br>
