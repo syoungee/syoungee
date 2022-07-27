@@ -1,5 +1,5 @@
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=SunYoung%20Hwang&fontSize=50" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=Sun young,%20Hwang&fontSize=50&animation=twinkling" />
   </br>
   <p align="center">
     ✏️ Tech Spec ✏️<br/>
@@ -31,6 +31,5 @@ ESFJ-A
 이야기 하기를 즐기며 정리정돈을 잘하고, 참을성이 많고 도움을 주는 것을 좋아합니다🤍</br>
 개발자 mbti유형 하위 2등에 속하기 때문에 더 유니크하죠😎
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 </div>
