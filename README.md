@@ -24,7 +24,7 @@
 
 <b>🧸 about me 🧸</b>
 
-<a href="https://velog.io/@syoungee"> <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a> <a href="https://www.notion.so/Resume-2022-ver-0ad4bd9f521b48bf94c4aa76e4abfaec"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a> <a href= "mailto:sunyoungah69@gmail.com" ><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@syoungee"> <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a> <a href="https://misty-lungfish-f16.notion.site/Resume-7d0439277d684a8289484819da225208"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a> <a href= "mailto:sunyoungah69@gmail.com" ><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
 ESFJ-A
 사교적인 외교관 & 친선도모형</br>
